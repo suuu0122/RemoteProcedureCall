@@ -1,0 +1,6 @@
+{
+	"method": "reverse", 
+	"params": ["abcdefg"], 
+	"param_types": ["str"],
+	"id": 3
+}

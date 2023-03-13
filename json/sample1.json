@@ -1,6 +1,6 @@
 {
-	"method": "subtract", 
-	"params": [42, 23], 
-	"param_types": ["int", "int"],
+	"method": "floor", 
+	"params": [7.1], 
+	"param_types": ["double"],
 	"id": 1
 }
