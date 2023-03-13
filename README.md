@@ -1,7 +1,15 @@
 # RemoteProcedureCall
 
 ## Overview
+ローカルでクライアントとサーバが異なる言語でも、クライアントプログラムがサーバ上の機能を呼び出すことができる Remote Procedure Call のためのスクリプトです。コンピュータサイエンス学習サービス[Recursion](https://recursionist.io/)のアウトプットプロジェクト（Remote Procedure Call）として取り組みました。
+<br />
 
+## Learning Matter
+* JSONの操作
+* rubyでのUNIXソケット通信
+* Python
+	* クラスメソッド
+	* スタティックメソッド
 <br />
 
 ## [JSON](https://qiita.com/Morio/items/7538a939cc441367070d)
