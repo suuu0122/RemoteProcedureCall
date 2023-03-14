@@ -82,3 +82,4 @@
 * [class UNIXSocket](https://docs.ruby-lang.org/ja/latest/class/UNIXSocket.html)
 * [【Ruby入門】ファイルの読み込みと書き込みまとめ(File open)](https://www.sejuku.net/blog/14388)
 * [module function JSON.#dump](https://docs.ruby-lang.org/ja/latest/method/JSON/m/dump.html)
+* [Rubyクラスの定義とインスタンスの作成](https://www.javadrive.jp/ruby/class/index2.html)
